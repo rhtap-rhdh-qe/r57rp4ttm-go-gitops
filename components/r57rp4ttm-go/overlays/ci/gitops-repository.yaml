@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: r57rp4ttm-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/r57rp4ttm-go-gitops
